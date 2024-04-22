@@ -87,6 +87,7 @@ List of entities and the corresponding lcoations
 
 *Below is the marked text for visualization:*
 
+```markdown
 Discharge Summary #1
 Patient Name: Jane Doe
 Date of Birth: April 12, 1980
@@ -119,3 +120,4 @@ Dr. John Smith, MD
 Anytown Clinic
 <mark>5 Little France Dr, Edinburgh EH16 4UU<sup>AddressInfo</sup></mark>
 Phone: (555) 123-4567
+```
