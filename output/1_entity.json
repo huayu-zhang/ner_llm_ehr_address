@@ -1,0 +1,18 @@
+[
+    {
+        "type": "entity",
+        "section_name": "full_text",
+        "string": "5 Little France Dr, Edinburgh EH16 4UU",
+        "description": "AddressInfo",
+        "start": 120,
+        "end": 158
+    },
+    {
+        "type": "entity",
+        "section_name": "full_text",
+        "string": "51 Little France Cres, Edinburgh EH16 4SA",
+        "description": "AddressInfo",
+        "start": 984,
+        "end": 1025
+    }
+]

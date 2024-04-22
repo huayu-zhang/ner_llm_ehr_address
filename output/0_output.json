@@ -1,0 +1,13 @@
+[
+    {
+        "section_name": "full_text",
+        "section_start": 0,
+        "section_end": 1326,
+        "section_text": "Discharge Summary #1\nPatient Name: Jane Doe\nDate of Birth: April 12, 1980\nMedical Record Number: 123456789\n\nAddress: The University of Edinburgh, 5-7, 3 Little France Rd, Edinburgh EH16 4UX\n\nAdmission Date: April 1, 2024\nDischarge Date: April 7, 2024\n\nAdmitting Diagnosis: Community-acquired Pneumonia\nPrincipal Discharge Diagnosis: Resolved pneumonia\n\nHistory of Present Illness:\nMs. Doe presented to the emergency department with a 3-day history of fever, productive cough, and pleuritic chest pain. Chest X-ray confirmed the diagnosis of pneumonia, and she was admitted for IV antibiotics and supportive care.\n\nHospital Course:\nDuring her stay, Ms. Doe responded well to treatment with IV levofloxacin. Her fever subsided, and respiratory symptoms improved. She tolerated oral intake and ambulation independently.\n\nDischarge Medications:\n\nLevofloxacin 500 mg orally once daily for 7 days\nAcetaminophen 500 mg every 6 hours as needed for pain or fever\nDischarge Instructions:\nMs. Doe was discharged in stable condition. She was advised to complete her course of antibiotics and follow up with her primary care physician for repeat chest X-ray in 4 weeks to ensure resolution of pneumonia.\n\nFollow-Up Plan:\nPrimary Care Follow-Up:\nDr. John Smith, MD\nAnytown Clinic\n5 Little France Dr, Edinburgh EH16 4UU\nPhone: (555) 123-4567",
+        "generated_text": " Here is the output in .yaml format:\n```yaml\n     - \"The University of Edinburgh, 5-7, 3 Little France Rd, Edinburgh EH16 4UX\"\n     - \"5 Little France Dr, Edinburgh EH16 4UU\"\n```</s>",
+        "generated_parsed": [
+            "The University of Edinburgh, 5-7, 3 Little France Rd, Edinburgh EH16 4UX",
+            "5 Little France Dr, Edinburgh EH16 4UU"
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "section_name": "full_text",
+        "section_start": 0,
+        "section_end": 1047,
+        "section_text": "Discharge Summary #2\nPatient Name: John Smith\nDate of Birth: August 25, 1975\nMedical Record Number: 987654321\n\nAddress: 5 Little France Dr, Edinburgh EH16 4UU\n\nAdmission Date: March 15, 2024\nDischarge Date: March 17, 2024\n\nAdmitting Diagnosis: Acute Appendicitis\nPrincipal Discharge Diagnosis: Post-appendectomy, uncomplicated\n\nHistory of Present Illness:\nMr. Smith presented with acute right lower quadrant abdominal pain, consistent with appendicitis. He underwent laparoscopic appendectomy without complications.\n\nHospital Course:\nPost-operatively, Mr. Smith's pain was well controlled with oral analgesics. He tolerated a diet and passed flatus. His surgical wounds were clean and dry.\n\nDischarge Medications:\n\nAcetaminophen 500 mg every 6 hours as needed for pain\nDischarge Instructions:\nMr. Smith was discharged home in good condition. He was advised on wound care and activity restrictions.\n\nFollow-Up Plan:\nSurgical Follow-Up:\nDr. Sarah Johnson, MD\nSmalltown General Hospital\n51 Little France Cres, Edinburgh EH16 4SA\nPhone: (555) 987-6543",
+        "generated_text": " Here is the output in .yaml format:\n```yaml\n     - \"5 Little France Dr, Edinburgh EH16 4UU\"\n     - \"51 Little France Cres, Edinburgh EH16 4SA\"\n```</s>",
+        "generated_parsed": [
+            "5 Little France Dr, Edinburgh EH16 4UU",
+            "51 Little France Cres, Edinburgh EH16 4SA"
+        ]
+    }
+]

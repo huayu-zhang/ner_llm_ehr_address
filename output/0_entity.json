@@ -1,0 +1,18 @@
+[
+    {
+        "type": "entity",
+        "section_name": "full_text",
+        "string": "The University of Edinburgh, 5-7, 3 Little France Rd, Edinburgh EH16 4UX",
+        "description": "AddressInfo",
+        "start": 117,
+        "end": 189
+    },
+    {
+        "type": "entity",
+        "section_name": "full_text",
+        "string": "5 Little France Dr, Edinburgh EH16 4UU",
+        "description": "AddressInfo",
+        "start": 1266,
+        "end": 1304
+    }
+]
